@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-<style>
-  .test {
-    width: 30px;
-    height: 30px;
-    background-color: red;
-  }
-</style>
-
-<div class="test"></div>
+<div class="test" style="width: 30px;height: 30px;background-color: red;"></div>
 
 <!--
 **alisson1228/alisson1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
