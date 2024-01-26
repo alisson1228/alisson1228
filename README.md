@@ -6,7 +6,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alisson1228&show_icons=true&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1228&layout=compact&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1228&layout=compact&theme=tokyonight"/>
 </div>
 
 ## Tecnologias que uso:
