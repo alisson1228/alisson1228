@@ -5,7 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alissonsilveiras/)
 
 <p align="left">
-    ![](https://github-readme-stats.vercel.app/api?username=alisson1228&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1228&layout=compact&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=alisson1228&show_icons=true&theme=tokyonight) 
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1228&layout=compact&theme=tokyonight)
+
 </p>
 
 ## Tecnologias que uso:
