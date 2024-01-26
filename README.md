@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://alissonsouza.rf.gd/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alissonsilveiras/)
 
+Sou um Desenvolvedor Full-Stack dedicado, constantemente empenhado em aprimorar minhas habilidades e buscar oportunidades que me permitam crescer tanto pessoal quanto profissionalmente.
+
 ![GIT status](https://github-readme-stats.vercel.app/api?username=alisson1228&show_icons=true&theme=tokyonight) ![GIT status](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1228&layout=compact&theme=tokyonight)
 
 ## Tecnologias que uso:
@@ -31,7 +33,3 @@
 > ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
-
-
-Sou um Desenvolvedor Full-Stack dedicado, constantemente empenhado em aprimorar minhas habilidades e buscar oportunidades que me permitam crescer tanto pessoal quanto profissionalmente.
