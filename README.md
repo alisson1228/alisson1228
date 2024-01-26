@@ -5,9 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alissonsilveiras/)
 
 
-![Alissin Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson1228&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1228&layout=compact&theme=tokyonight)
-
+<img src="https://github-readme-stats.vercel.app/api?username=alisson1228&show_icons=true&theme=tokyonight"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1228&layout=compact&theme=tokyonight"/>
 
 ## Tecnologias que uso:
 
